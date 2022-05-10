@@ -1,3 +1,5 @@
+% THIS FILE WAS NOT WRITTEN BY ME
+
 function [x, c, funVal, ValueL]=LogisticR(A, y, z, opts)
 %
 %%
